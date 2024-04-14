@@ -1,0 +1,70 @@
+/*
+	light green: #A3E48B
+	purple: #570251
+	dark green: #025708
+	white: #FFFFFF
+*/
+
+body {
+	background-color: #FFFFFF;
+	padding: 0 24px 36px 24px;
+}
+
+
+a {
+	color: #593814;
+	font-weight: bold;
+}
+
+
+
+a:hover {
+	color: #1D4859;
+}
+
+
+
+h1, h2 {
+	color: #025708;
+}
+
+
+h1, img {
+	text-align: center;
+}
+
+
+p.picture {
+	text-align: center;
+}
+
+
+p, li, table {
+	font-size: 1.2em;
+}
+
+
+th, td {
+/*	border-color: #468BA6;
+	border-style: solid;
+	border-width: 3px;*/
+	border: #468BA6 solid 3px;
+	padding: 8px;
+}
+
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*To center the table if text align doesn't center correctly*/
+
+/*
+	block display
+	specified width
+	left and right margins must be equal - set both to auto*/
+
+/*individual lines*/
+
+
