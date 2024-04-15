@@ -3,11 +3,12 @@
 	light purple: #CFACF2
 	dark green: #287D41
 	light blue: #5EC8F2
+	lighter blue: #D8F2F5
 	dark purple: #4A2B8C or #821EF5
 */
 
 body {
-	background-color: #D1F1FF;
+	background-color: #D8F2F5;
 	padding: 0 24px 36px 24px;
 }
 
