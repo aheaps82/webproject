@@ -1,0 +1,75 @@
+/*
+	green: #A3D98B
+	light purple: #CFACF2
+	dark green: #287D41
+	light blue: #5EC8F2
+	dark purple: #4A2B8C or #821EF5
+*/
+
+body {
+	background-color: #D1F1FF;
+	padding: 0 24px 36px 24px;
+}
+
+
+a {
+	color: #021E73;
+	font-weight: bold;
+}
+
+
+
+a:hover {
+	color: #287D41;
+}
+
+
+
+h1, h2 {
+	color: #021E73;
+}
+
+
+h3 {
+	color: #4A2B8C;
+}
+
+h1, img {
+	text-align: center;
+}
+
+
+p.picture {
+	text-align: center;
+}
+
+
+p, li, table {
+	font-size: 1.2em;
+}
+
+
+th, td {
+/*	border-color: #287D41;
+	border-style: solid;
+	border-width: 3px;*/
+	border: #4A2B8C solid 3px;
+	padding: 8px;
+}
+
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*To center the table if text align doesn't center correctly*/
+
+/*
+	block display
+	specified width
+	left and right margins must be equal - set both to auto*/
+
+/*individual lines*/
+
+
